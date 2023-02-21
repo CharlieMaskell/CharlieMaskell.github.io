@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog - Chaz.Rocks</title>
+    <link>https://blog.chaz.rocks/posts/</link>
+    <description>Recent content in Posts on Blog - Chaz.Rocks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 21 Feb 2023 20:50:00 +0000</lastBuildDate><atom:link href="https://blog.chaz.rocks/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://blog.chaz.rocks/posts/my-first-post/</link>
+      <pubDate>Tue, 21 Feb 2023 20:50:00 +0000</pubDate>
+      
+      <guid>https://blog.chaz.rocks/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphazised text.
+Test
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>
